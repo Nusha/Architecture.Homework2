@@ -1,4 +1,4 @@
-package airport;
+package airport_state;
 
 public class FlightContext {
     private FlightState flightState;

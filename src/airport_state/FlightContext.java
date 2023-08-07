@@ -4,7 +4,7 @@ public class FlightContext {
     private FlightState flightState;
 
     public FlightContext() {
-        // by default, a flight is on time
+        // По умолчанию - приземлился
         flightState = new Landed();
     }
 
